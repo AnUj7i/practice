@@ -12,7 +12,7 @@ def are_twin_primes(a, b):
     return False
 
 # Example usage
-num1 = 11
+num1 = 111
 num2 = 13
 
 if are_twin_primes(num1, num2):
